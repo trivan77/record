@@ -1,0 +1,2 @@
+Thời gian mỗi video (phút): 10
+Vị trí lưu video: D:\Hiep\record_video-main\Video
